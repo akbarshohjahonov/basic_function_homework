@@ -1,5 +1,5 @@
 # Create a function called main.
-def called(a):
+def main(a):
     return"Hello "+a
 # Return the value "Hello World"
-print(called("World"))
+print(main("World"))
