@@ -4,4 +4,4 @@ def main(a):
 # Create function arguments a.
 
 # Return the negative value of a.
-print (main(2)) 
+print (main(2))
