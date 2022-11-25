@@ -1,5 +1,5 @@
 # Create a function called main.
-def called():
+def main():
     return("mana")
 # Return the value str type.
-print(type(called()))
+print(type(main()))
