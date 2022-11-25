@@ -1,5 +1,5 @@
 # Create a function called main.
-def called():
+def main():
     return(45.5)
 # Return the value float type.
-print(type(called()))
+print(type(main()))
