@@ -1,5 +1,5 @@
 # Create a function called main.
-def called():
+def main():
     return"codeschooluz"
 # Return the value "codeschooluz"
-print (called())
+print (main())
