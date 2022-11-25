@@ -1,7 +1,7 @@
 # Create a function called main.
-def function(a):
+def main(a):
     return(a)
 # Create function arguments a.
 
 # Return the value a.
-print(function("a"))
+print(main("a"))
